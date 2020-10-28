@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Solitary Reaper",
     "description": "",
-    "home_page_url": "https://samagra14.github.io/publii_public_test",
-    "feed_url": "https://samagra14.github.io/publii_public_test/feed.json",
+    "home_page_url": "https://samagra14.ml",
+    "feed_url": "https://samagra14.ml/feed.json",
     "user_comment": "",
     "author": {
         "name": "Samagra Sharma"
     },
     "items": [
         {
-            "id": "https://samagra14.github.io/publii_public_test/testing-a-static-cms.html",
-            "url": "https://samagra14.github.io/publii_public_test/testing-a-static-cms.html",
+            "id": "https://samagra14.ml/testing-a-static-cms.html",
+            "url": "https://samagra14.ml/testing-a-static-cms.html",
             "title": "Testing a static CMS",
             "summary": " This is something I have been searching for too long.&nbsp; &nbsp; &nbsp;&nbsp; ",
             "content_html": "\n  <p>\n    This is something I have been searching for too long.&nbsp; &nbsp; &nbsp;&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",

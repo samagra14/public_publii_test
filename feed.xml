@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>The Solitary Reaper</title>
-    <link href="https://samagra14.github.io/publii_public_test/feed.xml" rel="self" />
-    <link href="https://samagra14.github.io/publii_public_test" />
+    <link href="https://samagra14.ml/feed.xml" rel="self" />
+    <link href="https://samagra14.ml" />
     <updated>2020-10-28T22:21:13+05:30</updated>
     <author>
         <name>Samagra Sharma</name>
     </author>
-    <id>https://samagra14.github.io/publii_public_test</id>
+    <id>https://samagra14.ml</id>
 
     <entry>
         <title>Testing a static CMS</title>
         <author>
             <name>Samagra Sharma</name>
         </author>
-        <link href="https://samagra14.github.io/publii_public_test/testing-a-static-cms.html"/>
-        <id>https://samagra14.github.io/publii_public_test/testing-a-static-cms.html</id>
+        <link href="https://samagra14.ml/testing-a-static-cms.html"/>
+        <id>https://samagra14.ml/testing-a-static-cms.html</id>
 
         <updated>2020-10-28T22:21:13+05:30</updated>
             <summary>
