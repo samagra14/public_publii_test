@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>The Solitary Reaper</title>
-    <link href="https://samagra14.ml/feed.xml" rel="self" />
-    <link href="https://samagra14.ml" />
+    <link href="https://www.samagra14.ml/feed.xml" rel="self" />
+    <link href="https://www.samagra14.ml" />
     <updated>2021-01-19T21:51:09+05:30</updated>
     <author>
         <name>Samagra Sharma</name>
     </author>
-    <id>https://samagra14.ml</id>
+    <id>https://www.samagra14.ml</id>
 
     <entry>
         <title>Wondering about the implications of the Data Processing Inequality?</title>
         <author>
             <name>Samagra Sharma</name>
         </author>
-        <link href="https://samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html"/>
-        <id>https://samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html</id>
+        <link href="https://www.samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html"/>
+        <id>https://www.samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html</id>
 
         <updated>2021-01-19T21:51:09+05:30</updated>
             <summary>
@@ -44,8 +44,8 @@
         <author>
             <name>Samagra Sharma</name>
         </author>
-        <link href="https://samagra14.ml/who-am-i.html"/>
-        <id>https://samagra14.ml/who-am-i.html</id>
+        <link href="https://www.samagra14.ml/who-am-i.html"/>
+        <id>https://www.samagra14.ml/who-am-i.html</id>
 
         <updated>2021-01-02T12:14:39+05:30</updated>
             <summary>
@@ -69,8 +69,8 @@
         <author>
             <name>Samagra Sharma</name>
         </author>
-        <link href="https://samagra14.ml/an-intuitive-introduction-to-information-theory.html"/>
-        <id>https://samagra14.ml/an-intuitive-introduction-to-information-theory.html</id>
+        <link href="https://www.samagra14.ml/an-intuitive-introduction-to-information-theory.html"/>
+        <id>https://www.samagra14.ml/an-intuitive-introduction-to-information-theory.html</id>
 
         <updated>2020-12-26T20:56:52+05:30</updated>
             <summary></summary>
@@ -81,8 +81,8 @@
         <author>
             <name>Samagra Sharma</name>
         </author>
-        <link href="https://samagra14.ml/incomplete-ideas.html"/>
-        <id>https://samagra14.ml/incomplete-ideas.html</id>
+        <link href="https://www.samagra14.ml/incomplete-ideas.html"/>
+        <id>https://www.samagra14.ml/incomplete-ideas.html</id>
 
         <updated>2020-12-05T23:36:13+05:30</updated>
             <summary>
@@ -124,8 +124,8 @@
         <author>
             <name>Samagra Sharma</name>
         </author>
-        <link href="https://samagra14.ml/testing-a-static-cms.html"/>
-        <id>https://samagra14.ml/testing-a-static-cms.html</id>
+        <link href="https://www.samagra14.ml/testing-a-static-cms.html"/>
+        <id>https://www.samagra14.ml/testing-a-static-cms.html</id>
 
         <updated>2020-10-30T12:15:33+05:30</updated>
             <summary>
