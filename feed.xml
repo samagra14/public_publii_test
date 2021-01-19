@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>The Solitary Reaper</title>
+    <link href="http://samagra14.ml/feed.xml" rel="self" />
+    <link href="http://samagra14.ml" />
+    <updated>2021-01-19T21:51:09+05:30</updated>
+    <author>
+        <name>Samagra Sharma</name>
+    </author>
+    <id>http://samagra14.ml</id>
+
+    <entry>
+        <title>Wondering about the implications of the Data Processing Inequality?</title>
+        <author>
+            <name>Samagra Sharma</name>
+        </author>
+        <link href="http://samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html"/>
+        <id>http://samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html</id>
+
+        <updated>2021-01-19T21:51:09+05:30</updated>
+            <summary>
+                <![CDATA[
+                    The data processing inequality is probably one of the most fundamental results in Computer Science. It is one of those results that are easier to express in natural language but harder to comprehend mathematically. It also leads us to a few exciting implications which are&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The data processing inequality is probably one of the most fundamental results in Computer Science. It is one of those results that are easier to express in natural language but harder to comprehend mathematically. It also leads us to a few exciting implications which are worth exploring. Let's start with the basics.</p>
+<blockquote>
+<p>You can never increase the amount of information present in a dataset by any clever manipulation of the constituent data points.</p>
+</blockquote>
+<p>This seems pretty obvious at first glance, and it is hard to derive any useful conclusions from it, but the beauty lies in the mathematical formulation of the inequality. So, let's start with the basics.</p>
+<h2>What exactly is information?</h2>
+<p>Information theory is among those few lucky fields that can trace their origins to a specific time in history. The study of the intangible concept of information began in 1948 when Claude Shannon defined the idea in terms of probabilities of random variables. He defined the concept of entropy associated with a random variable as follows:</p>
+<p>$$ H(x) = \sum_{x} p_{X}(x)log(\frac{1}{p_{X}(x)})$$</p>
+<p>To get an intuitive feel for the definition of entropy, consider it as the number of MCQ questions you need to ask on average </p>
+<h2> </h2>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Who am I?</title>
+        <author>
+            <name>Samagra Sharma</name>
+        </author>
+        <link href="http://samagra14.ml/who-am-i.html"/>
+        <id>http://samagra14.ml/who-am-i.html</id>
+
+        <updated>2021-01-02T12:14:39+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Am I creating any value for anyone?Have I done anything significant in the year 2021?How do I create value? 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>Am I creating any value for anyone?</li>
+<li>Have I done anything significant in the year 2021?</li>
+<li>How do I create value?</li>
+<li> </li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>An Intuitive Introduction to Information Theory</title>
+        <author>
+            <name>Samagra Sharma</name>
+        </author>
+        <link href="http://samagra14.ml/an-intuitive-introduction-to-information-theory.html"/>
+        <id>http://samagra14.ml/an-intuitive-introduction-to-information-theory.html</id>
+
+        <updated>2020-12-26T20:56:52+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Incomplete Ideas</title>
+        <author>
+            <name>Samagra Sharma</name>
+        </author>
+        <link href="http://samagra14.ml/incomplete-ideas.html"/>
+        <id>http://samagra14.ml/incomplete-ideas.html</id>
+
+        <updated>2020-12-05T23:36:13+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Bringing Global Explainability By Removing Explainable DatapointsYou train an end to end blackbox model for some task. And you want to explain the workings of that particular model on a global level.Form a set of hypotheses about what the model could have been doing.For eg&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Bringing Global Explainability By Removing Explainable Datapoints</h2>
+<ul>
+<li>You train an end to end blackbox model for some task. And you want to explain the workings of that particular model on a global level.</li>
+<li>Form a set of hypotheses about what the model could have been doing.
+<ul>
+<li>For eg say a model is looking at a color gradient.</li>
+</ul>
+</li>
+<li>Design an alternate ensemble model which depends only on the hypothesis identified previous step
+<ul>
+<li>For eg: A model whose input is only the color gradient information and nothing else.</li>
+</ul>
+</li>
+<li>Train this new ensemble model on a portion of dataset</li>
+<li>Test the model on the test portion</li>
+<li>Now remove those datapoints from the training where the ensemble performs pretty good.</li>
+<li>See if the original model still performs well. If it does revisit your hypothesis else you have a possible candidate for an explainable dimension</li>
+</ul>
+<h2>Convergence of Monte Carlo ES</h2>
+<ul>
+<li>See Sutton and Barto Page 99 2nd para below the algorithm.</li>
+<li> </li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Testing a static CMS</title>
+        <author>
+            <name>Samagra Sharma</name>
+        </author>
+        <link href="http://samagra14.ml/testing-a-static-cms.html"/>
+        <id>http://samagra14.ml/testing-a-static-cms.html</id>
+
+        <updated>2020-10-30T12:15:33+05:30</updated>
+            <summary>
+                <![CDATA[
+                     This is something I have been searching for too long.&nbsp; &nbsp; &nbsp;&nbsp; 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is something I have been searching for too long.&nbsp; &nbsp; &nbsp;&nbsp;
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
