@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://samagra14.ml/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://samagra14.ml/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://samagra14.ml/</loc>
+<loc>https://samagra14.ml/</loc>
 </url>
 <url>
-<loc>http://samagra14.ml/an-intuitive-introduction-to-information-theory.html</loc>
+<loc>https://samagra14.ml/an-intuitive-introduction-to-information-theory.html</loc>
 <lastmod>2020-12-26T20:56:52+05:30</lastmod>
 </url>
 <url>
-<loc>http://samagra14.ml/incomplete-ideas.html</loc>
+<loc>https://samagra14.ml/incomplete-ideas.html</loc>
 <lastmod>2020-12-05T23:36:13+05:30</lastmod>
 </url>
 <url>
-<loc>http://samagra14.ml/samagra-sharma.html</loc>
+<loc>https://samagra14.ml/samagra-sharma.html</loc>
 <lastmod>2020-10-29T00:39:39+05:30</lastmod>
-<image:image>
-<image:loc>http://samagra14.ml/assets/img/prof_pic.png</image:loc>
-<image:title><![CDATA[Sometimes you just have to create your own sunshine.]]></image:title>
-</image:image>
 </url>
 <url>
-<loc>http://samagra14.ml/testing-a-static-cms.html</loc>
+<loc>https://samagra14.ml/testing-a-static-cms.html</loc>
 <lastmod>2020-10-30T12:15:33+05:30</lastmod>
 </url>
 <url>
-<loc>http://samagra14.ml/who-am-i.html</loc>
+<loc>https://samagra14.ml/who-am-i.html</loc>
 <lastmod>2021-01-02T12:14:39+05:30</lastmod>
 </url>
 <url>
-<loc>http://samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html</loc>
+<loc>https://samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html</loc>
 <lastmod>2021-01-19T21:51:09+05:30</lastmod>
 </url>
 </urlset>
