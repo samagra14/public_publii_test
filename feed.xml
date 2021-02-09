@@ -3,7 +3,7 @@
     <title>The Solitary Reaper</title>
     <link href="https://www.samagra14.ml/feed.xml" rel="self" />
     <link href="https://www.samagra14.ml" />
-    <updated>2021-02-10T00:04:24+05:30</updated>
+    <updated>2021-02-10T00:21:21+05:30</updated>
     <author>
         <name>Samagra Sharma</name>
     </author>
@@ -17,15 +17,18 @@
         <link href="https://www.samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html"/>
         <id>https://www.samagra14.ml/wondering-about-the-implications-of-the-data-processing-inequality.html</id>
 
-        <updated>2021-01-19T21:51:09+05:30</updated>
+        <updated>2021-02-10T00:21:21+05:30</updated>
             <summary>
                 <![CDATA[
-                    The data processing inequality is probably one of the most fundamental results in Computer Science. It is one of those results that are easier to express in natural language but harder to comprehend mathematically. It also leads us to a few exciting implications which are&hellip;
+                    <p>The data processing inequality is probably one of the most fundamental results in Computer Science. It is one of those results that are easier to express in natural language but harder to comprehend mathematically. It also leads us to a few exciting implications which are worth exploring.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>The data processing inequality is probably one of the most fundamental results in Computer Science. It is one of those results that are easier to express in natural language but harder to comprehend mathematically. It also leads us to a few exciting implications which are worth exploring. Let's start with the basics.</p>
+                <p>The data processing inequality is probably one of the most fundamental results in Computer Science. It is one of those results that are easier to express in natural language but harder to comprehend mathematically. It also leads us to a few exciting implications which are worth exploring.</p>
+
+<p>Let's start with the basics.</p>
 <blockquote>
 <p>You can never increase the amount of information present in a dataset by any clever manipulation of the constituent data points.</p>
 </blockquote>
@@ -386,18 +389,21 @@ Google: 8, 9 5 6, 7 7 6, 2 1 7 7, 5 2 1, 4 8 9, 6 3 2. 3. Write the following nu
         <author>
             <name>Samagra Sharma</name>
         </author>
-        <link href="https://www.samagra14.ml/.html"/>
-        <id>https://www.samagra14.ml/.html</id>
+        <link href="https://www.samagra14.ml/thoughts-on-ai-will-a-bias-free-ai-even-be-human-like.html"/>
+        <id>https://www.samagra14.ml/thoughts-on-ai-will-a-bias-free-ai-even-be-human-like.html</id>
 
-        <updated>2021-02-09T23:52:59+05:30</updated>
+        <updated>2021-02-10T00:20:19+05:30</updated>
             <summary>
                 <![CDATA[
-                    In the past few weeks, there has been much debate around existing biases in our day to day lives and how we should tackle them. This realization was mostly due to the ongoing protests against police brutality in the United States. There were tweets and&hellip;
+                    <p>In the past few weeks, there has been much debate around existing biases in our day to day lives and how we should tackle them. This realization was mostly due to the ongoing protests against police brutality in the United States. There were tweets and comments everywhere promoting the idea of a bias-free space. The Artificial Intelligence community wasn’t left untouched, and someone tried the existing language models for their developed biases.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>In the past few weeks, there has been much debate around existing biases in our day to day lives and how we should tackle them. This realization was mostly due to the ongoing protests against police brutality in the United States. There were tweets and comments everywhere promoting the idea of a bias-free space. The Artificial Intelligence community wasn’t left untouched, and someone tried the existing language models for their developed biases. Here is how it turned out:</p>
+                <p>In the past few weeks, there has been much debate around existing biases in our day to day lives and how we should tackle them. This realization was mostly due to the ongoing protests against police brutality in the United States. There were tweets and comments everywhere promoting the idea of a bias-free space. The Artificial Intelligence community wasn’t left untouched, and someone tried the existing language models for their developed biases.</p>
+
+<p>Here is how it turned out:</p>
 <blockquote class="twitter-tweet">
 <p dir="ltr" lang="en">I don't understand how tech companies can base algorithms on racist/misogynistic data and expect users to mitigate the biases on their own. See this whole thread <a href="https://t.co/BEzTfTmLvC">https://t.co/BEzTfTmLvC</a> <a href="https://t.co/S1lIUQMxgB">pic.twitter.com/S1lIUQMxgB</a></p>
 — Ellen K. Pao (@ekp) <a href="https://twitter.com/ekp/status/1271144700896964608?ref_src=twsrc%5Etfw">June 11, 2020</a></blockquote>
